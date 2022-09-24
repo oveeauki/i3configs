@@ -7,7 +7,7 @@ i3 version 4.16.1 (2019-01-27) © 2009 Michael Stapelberg and contributors
 ```
 
 
-## **Requirements**
+### **Requirements**
 
 ```
 xbacklight xinput i3blocks rxvt-unicode-256color screen feh scrot redshift alsa-utils acpi fonts-font-awesome xdotool xclip
